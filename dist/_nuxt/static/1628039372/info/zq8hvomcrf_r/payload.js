@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/info/zq8hvomcrf_r", (function(a){return {data:[{item:{id:"zq8hvomcrf_r",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,title:"土佐清水産、粗塩が入荷しました。",date:"2021-03-18T15:00:00.000Z",body:"\u003Cp\u003E土佐清水の海の恵み、粗塩ができました！おにぎりにぴったりのお塩です。\u003Cbr\u003Eまろやかな甘みのあるお塩は、お料理全体を優しい味に整えてくれるはずです。\u003C\u002Fp\u003E"}}],fetch:{},mutations:void 0}}("2021-08-03T02:29:27.760Z")));
